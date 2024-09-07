@@ -67,11 +67,11 @@ export default defineConfig(({ mode }) => {
           "safari-pinned-tab.svg",
         ],
         manifest: {
-          name: "sudo-flix",
-          short_name: "sudo-flix",
+          name: "Moov",
+          short_name: "Moov",
           description: "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)",
-          theme_color: "#120f1d",
-          background_color: "#120f1d",
+          theme_color: "#0f111d",
+          background_color: "#0f111d",
           display: "standalone",
           start_url: "/",
           icons: [

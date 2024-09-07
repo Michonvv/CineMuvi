@@ -20,8 +20,8 @@ import {
 } from "@/utils/discover";
 
 import { SubPageLayout } from "./layouts/SubPageLayout";
-import { PageTitle } from "./parts/util/PageTitle";
 import { Icon, Icons } from "../components/Icon";
+import { PageTitle } from "./parts/util/PageTitle";
 
 export function Discover() {
   const { t } = useTranslation();
@@ -537,7 +537,7 @@ export function Discover() {
             <div
               key={category.name}
               id={`carousel-${category.name.toLowerCase().replace(/ /g, "-")}`}
-              className="mt-8"
+              className=""
             >
               {renderMovies(categoryMovies[category.name] || [], category.name)}
             </div>
@@ -546,7 +546,7 @@ export function Discover() {
             <div
               key={`${genre.id}|${genre.name}`}
               id={`carousel-${genre.name.toLowerCase().replace(/ /g, "-")}`}
-              className="mt-8"
+              className=""
             >
               {renderMovies(genreMovies[genre.id] || [], genre.name)}
             </div>
@@ -560,7 +560,7 @@ export function Discover() {
             <div
               key={category.name}
               id={`carousel-${category.name.toLowerCase().replace(/ /g, "-")}`}
-              className="mt-8"
+              className=""
             >
               {renderMovies(
                 categoryShows[category.name] || [],
@@ -573,7 +573,7 @@ export function Discover() {
             <div
               key={`${genre.id}|${genre.name}`}
               id={`carousel-${genre.name.toLowerCase().replace(/ /g, "-")}`}
-              className="mt-8"
+              className=""
             >
               {renderMovies(tvShowGenres[genre.id] || [], genre.name, true)}
             </div>
