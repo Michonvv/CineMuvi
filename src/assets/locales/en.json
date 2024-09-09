@@ -158,26 +158,28 @@
       "discover": "Discover"
     },
     "titles": {
-      "day": {
-        "default": "What would you like to watch this afternoon?",
-        "extra": ["Have you seen Blazing Saddles?"],
-        "extra": ["Welcome to Moov!"],
-        "extra": [" /ᐠ>ヮ<ᐟ\\ฅ"],
-        "extra": ["Viva la Moov!"]
+    "day": {
+        "default": "What would you like to watch today?",
+        "extra": ["Have you checked out the latest releases on Moov?"],
+        "extra": ["Welcome to Moov! Your movie adventure awaits."],
+        "extra": ["Discover new favorites on Moov today!"],
+        "extra": ["Ready for a movie marathon on Moov?"],
+        "extra": ["Explore top-rated movies on Moov!"]
       },
-      "morning": {
+    "morning": {
         "default": "What would you like to watch this morning?",
-        "extra": ["Can't go wrong with Friends"],
-        "extra": ["I hear The Expanse is popular"],
-        "extra": ["\"૮₍  ˶•⤙•˶ ₎ა"],
-        "extra": ["Viva la Moov!"]
+        "extra": ["Good morning! How about some cartoons?"],
+        "extra": ["Start your day with a comedy show!"],
+        "extra": ["How about a morning workout video?"],
+        "extra": ["Rise and shine with a documentary!"]
       },
-      "night": {
+    "night": {
         "default": "What would you like to watch tonight?",
-        "extra": ["Rick & Morty is great with friends!"],
-        "extra": ["Go smoke and watch The Simpsons!"],
-        "extra": ["(づ ᴗ _ᴗ)づ♡"],
-        "extra": ["Viva la Moov!"]
+        "extra": ["How about a classic movie tonight?"],
+        "extra": ["Perfect time for a thrilling movie!"],
+        "extra": ["Relax with a comedy film this evening."],
+        "extra": ["Enjoy a cozy night with a romantic movie."],
+        "extra": ["Unwind with a documentary before bed."]
       },
       "420": {
         "default": "What would you like to watch this 4/20?",
