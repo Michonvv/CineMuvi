@@ -15,7 +15,7 @@
     },
     "q4": {
       "title": "Hvad med mine data og andet?",
-      "body": "Alle oplysninger synkroniseres til sudo-backend, som er anderledes end community-backend og hostes selvstændigt af mig, men alle er velkomne til at bruge den."
+      "body": "Alle oplysninger synkroniseres til moov-backend, som er anderledes end community-backend og hostes selvstændigt af mig, men alle er velkomne til at bruge den."
     },
     "q5": {
       "body": "Moov har en twitter-bruger, som du kan finde i bunden af denne side, samt et link til kildekoden på Github.",
@@ -191,7 +191,7 @@
     "menu": {
       "about": "Om os",
       "logout": "Log ud",
-      "register": "Synkroniser til sudo-cloud",
+      "register": "Synkroniser til moov-cloud",
       "settings": "Indstillinger",
       "support": "Support",
       "discover": "Opdag"
@@ -528,7 +528,7 @@
       },
       "register": {
         "text": "Del fremskridt mellem enheder, og hold dem synkroniseret. ( ̧⸝⸝⍢⸝⸝)ෆ",
-        "title": "Synkroniser med sudo-cloud",
+        "title": "Synkroniser med moov-cloud",
         "cta": "Kom godt i gang"
       },
       "title": "Profil"

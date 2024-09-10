@@ -17,7 +17,7 @@
     "title": "Su di Moov (^▽^)",
     "q4": {
       "title": "E i miei dati?",
-      "body": "Tutti i dati vengono sincronizzati con il back-end sudo che è diverso dal back-end della community ed è ospitato in modo indipendente da me, chiunque è libero di utilizzare anche questo."
+      "body": "Tutti i dati vengono sincronizzati con il back-end moov che è diverso dal back-end della community ed è ospitato in modo indipendente da me, chiunque è libero di utilizzare anche questo."
     },
     "q5": {
       "body": "be', Moov ha un account Twitter che può essere trovato nel fondo della pagina insieme ad un link al codice sorgente su Github.",
@@ -190,7 +190,7 @@
     "menu": {
       "about": "Su di Moov",
       "logout": "Esci",
-      "register": "Sincronizza al sudo-cloud",
+      "register": "Sincronizza al moov-cloud",
       "settings": "Impostazioni",
       "support": "Supporto",
       "discover": "Scopri"
@@ -502,7 +502,7 @@
       "register": {
         "cta": "Inizia",
         "text": "Condividi i progressi dei tuoi film e serie tra dispositivi e mantienili sincronizzati. ( ̧⸝⸝⍢⸝⸝)ෆ",
-        "title": "Sincronizza col sudo-cloud"
+        "title": "Sincronizza col moov-cloud"
       },
       "title": "Account",
       "admin": {
