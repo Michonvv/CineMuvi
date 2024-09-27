@@ -473,7 +473,7 @@ export function Discover() {
   }, [countdown]);
 
   return (
-    <SubPageLayout>
+    <div>
       <div className="mb-16 sm:mb-2">
         <Helmet>
           {/* Hide scrollbar lmao */}
@@ -580,6 +580,6 @@ export function Discover() {
           ))}
         </div>
       </ThiccContainer>
-    </SubPageLayout>
+    </div>
   );
 }

@@ -16,7 +16,7 @@
     },
     "title": "À propos de Moov",
     "q4": {
-      "body": "La synchronisation de toutes les données se fait sur la sudo-backend, qui diffère de la backend de communauté et est hébergé indépendamment par moi. Tout le monde peut également l'utiliser.",
+      "body": "La synchronisation de toutes les données se fait sur la moov-backend, qui diffère de la backend de communauté et est hébergé indépendamment par moi. Tout le monde peut également l'utiliser.",
       "title": "Qu'en est-il de mes données ?"
     },
     "q5": {
@@ -174,7 +174,7 @@
     "menu": {
       "about": "À propos de nous",
       "logout": "Se déconnecter",
-      "register": "Synchroniser au sudo-cloud",
+      "register": "Synchroniser au moov-cloud",
       "settings": "Paramètres",
       "support": "Support"
     }
@@ -476,7 +476,7 @@
       "register": {
         "cta": "Commencer",
         "text": "Partagez la progression de vos films et séries entre vos appareils et gardez-les synchronisés.",
-        "title": "Synchroniser au sudo-cloud"
+        "title": "Synchroniser au moov-cloud"
       },
       "title": "Compte"
     },

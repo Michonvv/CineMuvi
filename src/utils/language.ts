@@ -1,7 +1,7 @@
 import countryLanguages, { LanguageObj } from "@ladjs/country-language";
 import { getTag } from "@sozialhelden/ietf-language-tags";
 
-const languageOrder = ["en", "hi", "fr", "de", "nl", "pt"];
+const languageOrder = ["en", "nl", "fr", "de", "hi", "pt"];
 
 // mapping of language code to country code.
 // multiple mappings can exist, since languages are spoken in multiple countries.
@@ -12,7 +12,6 @@ const countryPriority: Record<string, string> = {
   zh: "cn",
   nv: "us",
 };
-
 // list of iso639_1 Alpha-2 codes used as default languages
 const defaultLanguageCodes: string[] = [
   "ar-SA",

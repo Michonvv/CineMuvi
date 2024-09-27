@@ -15,6 +15,8 @@ import { WatchingPart } from "@/pages/parts/home/WatchingPart";
 import { SearchListPart } from "@/pages/parts/search/SearchListPart";
 import { SearchLoadingPart } from "@/pages/parts/search/SearchLoadingPart";
 
+import { Discover } from "./Discover";
+
 function useSearch(search: string) {
   const [searching, setSearching] = useState<boolean>(false);
   const [loading, setLoading] = useState<boolean>(false);
@@ -91,6 +93,7 @@ export function HomePage() {
           </>
         )}
       </WideContainer>
+      <Discover />
     </HomeLayout>
   );
 }
